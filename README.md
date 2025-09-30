@@ -1,2 +1,12 @@
-# sistema-citas-medicas
-El programa deberá poder realizar las siguientes acciones: • Dar de alta doctores. • Dar de alta pacientes. • Crear una cita con fecha y hora. • Relacionar una cita con un doctor y un paciente. • Tener control de acceso mediante administradores, esto es, solo ciertos usuarios podrán acceder al sistema mediante un identificador y una contraseña
+# Sistema de Administración de Citas Médicas
+
+## Instalacion y Configuracion
+1. Clonar el repositorio: git clone https://github.com/RobertoMtz95/sistema-citas-medicas.git
+2. Abrir el proyecto con IntelliJ IDEA
+3. Configurar Java 17
+
+## Creditos
+- Oscar Roberto Rivera Martínez
+
+## Licencia
+Este proyecto está bajo la Licencia MIT.
