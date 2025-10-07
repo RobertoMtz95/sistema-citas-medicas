@@ -9,3 +9,6 @@
 # Archivos de sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos de la base de datos local
+/db/
